@@ -6,5 +6,5 @@
 <?php
 echo(nombre:);
 ?>
-<bdoy>
+<body>
 </html>
